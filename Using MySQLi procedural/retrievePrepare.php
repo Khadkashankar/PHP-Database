@@ -50,7 +50,7 @@ echo "connected successfully";
         echo "<th>ID</th>";
         echo "<th>Name</th>";
         echo "<th>Roll No.</th>";
-        echo "<th>Address</th>";
+        echo "<th>Address</th>";    
         echo "</tr>";
         echo "</thead>";
         echo "<tbody>";
