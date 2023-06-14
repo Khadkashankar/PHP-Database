@@ -27,9 +27,9 @@ try{
     // $result->bindParam(3, $address, PDO::PARAM_STR);
 
     //bind parameter to prepared statement
-    $result->bindParam(':name', $name, PDO::PARAM_STR);
-    $result->bindParam(':roll', $roll, PDO::PARAM_INT);
-    $result->bindParam(':address', $address, PDO::PARAM_STR);
+    // $result->bindParam(':name', $name, PDO::PARAM_STR);
+    // $result->bindParam(':roll', $roll, PDO::PARAM_INT);
+    // $result->bindParam(':address', $address, PDO::PARAM_STR);
 
    // variables and values
     // $name = "selena";
